@@ -1,0 +1,22 @@
+.header-container{
+  height: 70px;
+  display: flex;
+  align-items: center;
+  background-color: var(--color-darkslategray);
+}
+
+.header-container svg{
+  margin-left: 40px;
+  margin-right: 10px;
+}
+
+.header-container h1{
+  font-weight: bold;
+  font-size: 24px;
+  letter-spacing: -0.015em;
+  color: var(--white-color);
+}
+
+.header-container h1 span{
+  color: var(--color-coral);
+}

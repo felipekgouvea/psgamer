@@ -1,0 +1,35 @@
+.home-container {
+  display: flex;
+  justify-content: center;
+}
+
+.home-content {
+  display: flex;
+  justify-content: space-around;
+  margin-right: 70px;
+}
+
+.home-title {
+  width: 480px;
+  margin-top: 80px;
+}
+
+.home-title h1 {
+  font-weight: bold;
+  font-size: 55px;
+  letter-spacing: -0.015em;
+  color: var(--color-turquoise);
+}
+
+.home-title h2 {
+  font-weight: normal;
+  font-size: 24px;
+  letter-spacing: -0.015em;
+  color: var(--color-coral);
+  margin-bottom: 100px;
+}
+
+.home-image {
+  margin-top: 50px;
+  width: 30%;
+}
